@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @profykid
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on some simple project for the beginning
+- 👀 I’m web developer and SMM Specialist
 - 📫 How to reach me tomislav.mikulic35@gmail.com
       Google is your friend and if you know how to ask you have answer for all questions.
 <!---
