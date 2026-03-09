@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @profykid
 - 📫 How to reach me tomislav.mikulic35@gmail.com
       Google is your friend and if you know how to ask you have answer for all questions.
 <!---
